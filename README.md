@@ -10,8 +10,8 @@
 - O(2^n) Exponential- recursive algorithms that solves a problem of size N
 - O(n!) Factorial- you are adding a loop for every element
 - 
-**Iterating through half a collection is still O(n)**
-**Two separate collections: O(a * b)**
+  **Iterating through half a collection is still O(n)**
+  **Two separate collections: O(a * b)**
 
 ## What can cause time in a function?-
 Operations (+, -, *, /)
@@ -29,7 +29,7 @@ O(a*b)
 - Rule 4: Drop Non-dominant terms
 
 ## What causes Space complexity?-
-Variables
-Data Structures
-Function Call
-Allocations
+- Variables
+- Data Structures
+- Function Call
+- Allocations
