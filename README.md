@@ -1,7 +1,7 @@
 # big-o-scalability-al
 Brief code explanation of Big-O notation
 
-#Big O Cheat Sheet:
+# Big O Cheat Sheet:
 -Big OsO(1) Constant- no loops
 O(log N) Logarithmic- usually searching algorithms have log n if they are sorted (Binary Search)
 O(n) Linear- for loops, while loops through n items
